@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023122419004",
+    "project_id": "vfxsynthetic",
+    "storage_bucket": "vfxsynthetic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023122419004:android:090707b989e014af1d4239",
+        "android_client_info": {
+          "package_name": "greatnessmarshal.vsf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023122419004-d0i9gvglqkivtlejgp77p94bqqi8plec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6v180-ulxM5u0cWwNo-BUC4Ar24oxxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023122419004-d0i9gvglqkivtlejgp77p94bqqi8plec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
